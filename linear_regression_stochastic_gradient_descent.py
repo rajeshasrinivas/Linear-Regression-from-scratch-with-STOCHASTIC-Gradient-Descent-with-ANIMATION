@@ -50,13 +50,3 @@ for i in range(iter_num):
         plt_obj.remove()
 plt.close(fig)
     
-
-
-
-
-
-
-
-
-
-
